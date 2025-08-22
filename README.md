@@ -74,15 +74,9 @@ Connectify is designed to be scalable, secure, and easy to maintain. The applica
 1. Run `npm run test` or `yarn test` to run the tests
 2. Use a testing library such as Jest or Cypress to write and run tests
 
+## Contact
 
-👤 **Author**
-------------
+Created by Ujjwal Singh <br>
+Email: singhujjwal1703@gmail.com
 
-Ujjwal Singh
-
-📝 **License**
----------
-
-MIT License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+ ### Thank you for checking out Connectify! 
